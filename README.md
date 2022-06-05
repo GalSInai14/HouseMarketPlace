@@ -1,6 +1,9 @@
 <h1>House MarketPlace</h1>
 <h2>Sell or Rent your property using House MarketPlace!</h2>
 <p>Created with React and Firebase.</p>
+<button className='primary button'>
+  <a href='https://house-market-place-beryl.vercel.app/'>Visit</a>
+</button>
 
 <h1>Usage</h1>
 <h2>Geolocation</h2>
